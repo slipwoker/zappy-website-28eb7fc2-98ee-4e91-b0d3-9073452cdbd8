@@ -2,13 +2,13 @@
 
 A handyman business offering professional home repair and maintenance services. The brand focuses on reliability, craftsmanship, and solving everyday household problems for clients.
 
-Source: https://example.com
+Source: https://meicler-home-solutions.zappy5.app
 
 ---
 
 ## פתרונות אחזקת בית מקצועיים — Meicler home solutions
 
-URL: https://example.com
+URL: https://meicler-home-solutions.zappy5.app
 Description: מחפשים שירותי טיפול לבית קרוב אלי? הצוות המקצועי שלנו מספק תיקונים, תחזוקה ושדרוגים עם אמינות ללא פשרות. לחצו עוד היום לשירות מהיר ואיכותי!
 
 פתרונות אחזקת בית מקצועיים — Meicler home solutions
@@ -671,7 +671,7 @@ Description: מחפשים שירותי טיפול לבית קרוב אלי? הצ
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://meicler-home-solutions.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -933,7 +933,7 @@ Meicler home solutions ("החברה", "אנו", "שלנו") מחויבת להג�
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://meicler-home-solutions.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1204,7 +1204,7 @@ Meicler home solutions מחויבת להנגיש את השירותים לכלל 
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://meicler-home-solutions.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1494,7 +1494,7 @@ Meicler home solutions מספקת Home Services דרך האתר. השירותי�
 
 ## תודה - Meicler home solutions
 
-URL: https://example.com/thank-you
+URL: https://meicler-home-solutions.zappy5.app/thank-you
 Description: Meicler home solutions - תודה - Meicler home solutions
 
 תודה - Meicler home solutions

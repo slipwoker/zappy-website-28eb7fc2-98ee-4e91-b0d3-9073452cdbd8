@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://meicler-home-solutions.zappy5.app
 מחפשים שירותי טיפול לבית קרוב אלי? הצוות המקצועי שלנו מספק תיקונים, תחזוקה ושדרוגים עם אמינות ללא פשרות. לחצו עוד היום לשירות מהיר ואיכותי!
 
 ### תודה - Meicler home solutions
-https://example.com/thank-you
+https://meicler-home-solutions.zappy5.app/thank-you
 Meicler home solutions - תודה - Meicler home solutions
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://meicler-home-solutions.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://meicler-home-solutions.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://meicler-home-solutions.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -38,8 +38,8 @@ Information about WCAG compliance and accessibility features.
 - Address: tel aviv, Israel, 972, israel
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://meicler-home-solutions.zappy5.app
+- Endpoint: https://meicler-home-solutions.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -68,6 +68,6 @@ Home Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://meicler-home-solutions.zappy5.app/sitemap.xml
+- Robots: https://meicler-home-solutions.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://meicler-home-solutions.zappy5.app/llms-full.txt
