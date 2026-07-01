@@ -1,0 +1,70 @@
+# Meicler home solutions — Generative Engine Optimization Map
+
+> A handyman business offering professional home repair and maintenance services. The brand focuses on reliability, craftsmanship, and solving everyday household problems for clients.
+
+---
+
+## Pages
+
+### בית
+https://meicler-home-solutions-28eb7fc2.zappy5.app
+מחפשים שירותי טיפול לבית קרוב אלי? הצוות המקצועי שלנו מספק תיקונים, תחזוקה ושדרוגים עם אמינות ללא פשרות. לחצו עוד היום לשירות מהיר ואיכותי!
+
+### תודה - Meicler home solutions
+https://meicler-home-solutions-28eb7fc2.zappy5.app/thank-you
+Meicler home solutions - תודה - Meicler home solutions
+
+## Legal & Policy
+
+### Privacy Policy
+https://meicler-home-solutions-28eb7fc2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://meicler-home-solutions-28eb7fc2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://meicler-home-solutions-28eb7fc2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://meicler-home-solutions-28eb7fc2.zappy5.app
+- Endpoint: https://meicler-home-solutions-28eb7fc2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Meicler home solutions
+A handyman business offering professional home repair and maintenance services. The brand focuses on reliability, craftsmanship, and solving everyday household problems for clients.
+
+## Target Audience
+- בעלי בתים בפעם הראשונה
+- אנשי מקצוע עסוקים
+- אזרחים ותיקים
+
+## Industry
+Home Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://meicler-home-solutions-28eb7fc2.zappy5.app/sitemap.xml
+- Robots: https://meicler-home-solutions-28eb7fc2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://meicler-home-solutions-28eb7fc2.zappy5.app/llms-full.txt
