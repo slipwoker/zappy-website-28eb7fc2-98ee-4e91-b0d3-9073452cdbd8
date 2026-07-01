@@ -620,11 +620,11 @@ Description: מחפשים שירותי טיפול לבית קרוב אלי? הצ
 #### צור קשר
 
 
-- [business_email]
+- sharon3443@@gmail.com
 
-- [business_phone]
+- 0525339777
 
-- [business_address]
+- tel aviv, Israel, 972, israel
 
 
 
@@ -634,13 +634,11 @@ Description: מחפשים שירותי טיפול לבית קרוב אלי? הצ
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -679,7 +677,6 @@ URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
-
 
 
 
@@ -834,11 +831,11 @@ Meicler home solutions ("החברה", "אנו", "שלנו") מחויבת להג�
 
 - חברה: Meicler home solutions
 
-- אימייל: [business_email]
+- אימייל: sharon3443@@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0525339777
 
-- כתובת: [business_address]
+- כתובת: tel aviv, Israel, 972, israel
 
 
 
@@ -887,11 +884,11 @@ Meicler home solutions ("החברה", "אנו", "שלנו") מחויבת להג�
 #### צור קשר
 
 
-- [business_email]
+- sharon3443@@gmail.com
 
-- [business_phone]
+- 0525339777
 
-- [business_address]
+- tel aviv, Israel, 972, israel
 
 
 
@@ -901,13 +898,11 @@ Meicler home solutions ("החברה", "אנו", "שלנו") מחויבת להג�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -946,7 +941,6 @@ URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
-
 
 
 
@@ -1109,9 +1103,9 @@ Meicler home solutions מחויבת להנגיש את השירותים לכלל 
 
 - חברה: Meicler home solutions
 
-- אימייל: [business_email]
+- אימייל: sharon3443@@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0525339777
 
 
 
@@ -1163,11 +1157,11 @@ Meicler home solutions מחויבת להנגיש את השירותים לכלל 
 #### צור קשר
 
 
-- [business_email]
+- sharon3443@@gmail.com
 
-- [business_phone]
+- 0525339777
 
-- [business_address]
+- tel aviv, Israel, 972, israel
 
 
 
@@ -1177,13 +1171,11 @@ Meicler home solutions מחויבת להנגיש את השירותים לכלל 
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1222,7 +1214,6 @@ URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
-
 
 
 
@@ -1408,11 +1399,11 @@ Meicler home solutions מספקת Home Services דרך האתר. השירותי�
 
 - חברה: Meicler home solutions
 
-- אימייל: [business_email]
+- אימייל: sharon3443@@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0525339777
 
-- כתובת: [business_address]
+- כתובת: tel aviv, Israel, 972, israel
 
 
 
@@ -1458,11 +1449,11 @@ Meicler home solutions מספקת Home Services דרך האתר. השירותי�
 #### צור קשר
 
 
-- [business_email]
+- sharon3443@@gmail.com
 
-- [business_phone]
+- 0525339777
 
-- [business_address]
+- tel aviv, Israel, 972, israel
 
 
 
@@ -1472,13 +1463,11 @@ Meicler home solutions מספקת Home Services דרך האתר. השירותי�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1658,11 +1647,11 @@ Description: Meicler home solutions - תודה - Meicler home solutions
 #### צור קשר
 
 
-- [business_email]
+- sharon3443@@gmail.com
 
-- [business_phone]
+- 0525339777
 
-- [business_address]
+- tel aviv, Israel, 972, israel
 
 
 
@@ -1672,13 +1661,11 @@ Description: Meicler home solutions - תודה - Meicler home solutions
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 

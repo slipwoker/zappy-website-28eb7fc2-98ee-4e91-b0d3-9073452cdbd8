@@ -32,7 +32,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: sharon3443@@gmail.com
+- Phone: 0525339777
+- Phone (tel): tel:0525339777
+- Address: tel aviv, Israel, 972, israel
 
 ### Contact form
 - URL: https://example.com
